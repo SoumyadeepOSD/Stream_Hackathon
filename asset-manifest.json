@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Stream_Hackathon/static/css/main.d92c81f1.css",
+    "main.js": "/Stream_Hackathon/static/js/main.61d580a9.js",
+    "static/js/141.d9557729.chunk.js": "/Stream_Hackathon/static/js/141.d9557729.chunk.js",
+    "static/js/209.47d3a3fe.chunk.js": "/Stream_Hackathon/static/js/209.47d3a3fe.chunk.js",
+    "static/js/878.b7674c0e.chunk.js": "/Stream_Hackathon/static/js/878.b7674c0e.chunk.js",
+    "static/js/829.06ed8d7b.chunk.js": "/Stream_Hackathon/static/js/829.06ed8d7b.chunk.js",
+    "static/js/787.2ca7c591.chunk.js": "/Stream_Hackathon/static/js/787.2ca7c591.chunk.js",
+    "static/media/EmojiOneColor.woff2": "/Stream_Hackathon/static/media/EmojiOneColor.90ee5fb894c8d349bc54.woff2",
+    "static/media/NotoColorEmoji-flags.woff2": "/Stream_Hackathon/static/media/NotoColorEmoji-flags.148141acfb7ce6e4f383.woff2",
+    "index.html": "/Stream_Hackathon/index.html",
+    "main.d92c81f1.css.map": "/Stream_Hackathon/static/css/main.d92c81f1.css.map",
+    "main.61d580a9.js.map": "/Stream_Hackathon/static/js/main.61d580a9.js.map",
+    "141.d9557729.chunk.js.map": "/Stream_Hackathon/static/js/141.d9557729.chunk.js.map",
+    "209.47d3a3fe.chunk.js.map": "/Stream_Hackathon/static/js/209.47d3a3fe.chunk.js.map",
+    "878.b7674c0e.chunk.js.map": "/Stream_Hackathon/static/js/878.b7674c0e.chunk.js.map",
+    "829.06ed8d7b.chunk.js.map": "/Stream_Hackathon/static/js/829.06ed8d7b.chunk.js.map",
+    "787.2ca7c591.chunk.js.map": "/Stream_Hackathon/static/js/787.2ca7c591.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d92c81f1.css",
+    "static/js/main.61d580a9.js"
+  ]
+}
